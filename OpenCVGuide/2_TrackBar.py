@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
+"""
+滑动条
+"""
 import cv2
 import numpy as np
-
-# 条状棒
 
 def nothing(x):
     pass

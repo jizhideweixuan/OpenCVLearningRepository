@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
+"""
+转换颜色空间
+"""
 import cv2
 from matplotlib import pyplot as plt
-
-# 转换颜色空间
 
 # 转换颜色空间,常用BGR-GRAY,BGR-HSV,注意opencv的HSV,色度H[0,179],饱和度S[0,255],亮度V[0,255]
 # 输出所有可用的flag

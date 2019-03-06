@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
+"""
+缩放,旋转
+"""
 import cv2
-
-# 缩放,旋转
 
 img = cv2.imread("./DataSource/1.jpg", 0)
 

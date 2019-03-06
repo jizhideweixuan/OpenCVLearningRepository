@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
+"""
+简单阈值(全局阈值)
+"""
 import cv2
 from matplotlib import pyplot as plt
-
-# 简单阈值(全局阈值)
 
 # 原图像应该是灰度图
 img = cv2.imread("./DataSource/1.jpg", 0)

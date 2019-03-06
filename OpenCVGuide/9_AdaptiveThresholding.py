@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
+"""
+自适应阈值
+"""
 import cv2
 from matplotlib import pyplot as plt
-
-# 自适应阈值
 
 img = cv2.imread("./DataSource/1.jpg",0)
 # 中值滤波,是基于排序统计理论的一种能够有效抑制噪声的非线性信号处理技术,

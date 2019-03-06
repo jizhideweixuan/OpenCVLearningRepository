@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
+"""
+性能
+"""
 import cv2
-
-# 性能表现
 
 # 执行时长
 img1 = cv2.imread("./DataSource/1.jpg", 0)

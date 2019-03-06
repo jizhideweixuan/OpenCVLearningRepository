@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
+"""
+Otsu二值化
+"""
 import cv2
 from matplotlib import pyplot as plt
-
-# Otsu二值化
 
 img = cv2.imread("./DataSource/1.jpg",0)
 

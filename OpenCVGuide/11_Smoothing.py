@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+图像模糊(去噪)
+"""
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
