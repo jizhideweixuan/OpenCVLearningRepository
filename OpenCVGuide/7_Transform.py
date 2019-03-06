@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-
 import cv2
-import numpy as np
+
+# 缩放,旋转
 
 img = cv2.imread("./DataSource/1.jpg", 0)
 

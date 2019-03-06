@@ -2,6 +2,8 @@
 import cv2
 from matplotlib import pyplot as plt
 
+# 基本操作
+
 img = cv2.imread("./DataSource/1.jpg", cv2.IMREAD_COLOR)
 # 可以创建多个窗口,但是名字必须不同
 

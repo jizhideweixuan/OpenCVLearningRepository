@@ -1,5 +1,8 @@
+# -*- coding: utf-8 -*-
 import cv2
 import numpy as np
+
+# 图像跟踪
 
 # 找到颜色的HSV值
 green = np.uint8([[[0, 255, 0]]])

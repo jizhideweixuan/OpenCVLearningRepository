@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import cv2
 
+# 性能表现
+
 # 执行时长
 img1 = cv2.imread("./DataSource/1.jpg", 0)
 # 获取当前时钟getTickCount()

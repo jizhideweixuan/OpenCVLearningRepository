@@ -1,11 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 5 13:51:34 2014
-@author: duan
-"""
 import cv2
 import numpy as np
 
+# 条状棒
 
 def nothing(x):
     pass
